@@ -2,15 +2,15 @@
 Instagram(IG) API wrapper for Android for handling an Instagram app lifecycle. Split into 2 sub-projects:
 
  * **InstagramAuth** Authentication library, based uppon [Facebook for Android](https://github.com/facebook/facebook-android-sdk) library.
- * **restig** A wrapper arround [IG rest API](http://instagram.com/developer/) calls. Based uppon restFB.
+ * **restig** A wrapper arround [IG rest API](http://instagram.com/developer/) calls. Based upon restFB.
 
 
 ## Documentation
-Currently sort on documentation, will add more as time permits.
+Currently short on documentation, will add more as time permits.
 ### Examples
 #### InstagramAuth
 	/**
-	 * Autherize a user in Instagram. Will show up the auth dialog and will
+	 * Authorize a user in Instagram. Will show up the auth dialog and will
 	 * allow the user to enter his/her credentials.
 	 * <p>
 	 * <b> Pay attention</b> Use the listener afterwards to save the
